@@ -12,7 +12,7 @@ module.exports=function(r){try{return!!r()}catch(t){return!0}};
 },{}],"jVdc":[function(require,module,exports) {
 module.exports=!require("./_fails")(function(){return 7!=Object.defineProperty({},"a",{get:function(){return 7}}).a});
 },{"./_fails":"BI7s"}],"DcE6":[function(require,module,exports) {
-var e=module.exports={version:"2.6.10"};"number"==typeof __e&&(__e=e);
+var e=module.exports={version:"2.6.11"};"number"==typeof __e&&(__e=e);
 },{}],"tZ11":[function(require,module,exports) {
 module.exports=function(o){return"object"==typeof o?null!==o:"function"==typeof o};
 },{}],"AIrJ":[function(require,module,exports) {
